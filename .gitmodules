@@ -1,0 +1,6 @@
+[submodule "src/apps"]
+	path = src/apps
+	url = https://github.com/pavanreddy98/appsteam.git
+[submodule "src/uit"]
+	path = src/uit
+	url = https://github.com/pavanreddy98/uiteam.git
